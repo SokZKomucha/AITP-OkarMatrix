@@ -1,0 +1,14 @@
+C:\Users\Oskar\Documents\Visual Studio 2022\CSharp\OkarMatrix\bin\Debug\net7.0\OkarMatrix.exe
+C:\Users\Oskar\Documents\Visual Studio 2022\CSharp\OkarMatrix\bin\Debug\net7.0\OkarMatrix.deps.json
+C:\Users\Oskar\Documents\Visual Studio 2022\CSharp\OkarMatrix\bin\Debug\net7.0\OkarMatrix.runtimeconfig.json
+C:\Users\Oskar\Documents\Visual Studio 2022\CSharp\OkarMatrix\bin\Debug\net7.0\OkarMatrix.dll
+C:\Users\Oskar\Documents\Visual Studio 2022\CSharp\OkarMatrix\bin\Debug\net7.0\OkarMatrix.pdb
+C:\Users\Oskar\Documents\Visual Studio 2022\CSharp\OkarMatrix\obj\Debug\net7.0\OkarMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Oskar\Documents\Visual Studio 2022\CSharp\OkarMatrix\obj\Debug\net7.0\OkarMatrix.AssemblyInfoInputs.cache
+C:\Users\Oskar\Documents\Visual Studio 2022\CSharp\OkarMatrix\obj\Debug\net7.0\OkarMatrix.AssemblyInfo.cs
+C:\Users\Oskar\Documents\Visual Studio 2022\CSharp\OkarMatrix\obj\Debug\net7.0\OkarMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Oskar\Documents\Visual Studio 2022\CSharp\OkarMatrix\obj\Debug\net7.0\OkarMatrix.dll
+C:\Users\Oskar\Documents\Visual Studio 2022\CSharp\OkarMatrix\obj\Debug\net7.0\refint\OkarMatrix.dll
+C:\Users\Oskar\Documents\Visual Studio 2022\CSharp\OkarMatrix\obj\Debug\net7.0\OkarMatrix.pdb
+C:\Users\Oskar\Documents\Visual Studio 2022\CSharp\OkarMatrix\obj\Debug\net7.0\OkarMatrix.genruntimeconfig.cache
+C:\Users\Oskar\Documents\Visual Studio 2022\CSharp\OkarMatrix\obj\Debug\net7.0\ref\OkarMatrix.dll
