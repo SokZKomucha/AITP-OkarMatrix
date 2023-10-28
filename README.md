@@ -23,7 +23,7 @@ Do wykorzystania w kodzie dostępne są metody:
 - `public string GetName()` - zwraca nazwę macierzy
 
 Do tego operatory:
-- `public double this[int x, int y]` - umożliwia przypisanie komórce m[x, y] wartości, bądź odczytanie wartości z tej komórki
+- `public double this[int x, int y]` - umożliwia przypisanie komórce `m[x, y]` wartości, bądź odczytanie wartości z tej komórki
 - `public static OkarMatrix Operator +(OkarMatrix m1, OkarMatrix m2)` - pozwala dodawać macierze, np. `OkarMatrix m3 = m1 + m2;`
 - `public static OkarMatrix Operator *(OkarMatrix m1, double value)` - pozwala mnożyć macierze przez scalary, np `m1 *= 2.5;`
 - `public static OkarMatrix operator *(OkarMatrix m1, OkarMatrix m2)` - pozwala mnożyć macierze przez inne macierze, np `OkarMatrix m3 = m1 * m2;`
