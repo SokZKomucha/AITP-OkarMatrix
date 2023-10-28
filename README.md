@@ -69,6 +69,12 @@ Matrix "Matrix1 * Matrix2" (2x2)
 
 <br>
 
+### Kompilacja i uruchamianie
+
+Najprostszym sposobem na uruchomienie programu (na systemie Windows) jest uruchomienie pliku `OkarMatrix.exe` znajdującego się w ścieżce `OkarMatrix/bin/Debug/net7.0`. Nie gwarantuję działania, a sam bym tej metody nie używał. Jeżeli [kompilator/runtime](https://dotnet.microsoft.com/en-us/download) jest pobrany, w folderze projektu należy użyć poleceń `dotnet build` i `dotnet run`, albo chociaż `dotnet run`. Istnieje też możliwość uruchomienia programu w jakimś edytorze kodu online, np [try.dot.net](https://try.dot.net/).  
+
+<br>
+
 ### Podsumowanie
 
 Za bardzo nie wiem co tu jest do podsumowania. Zrobiłem implementację macierzy w C# która działa, jak powinna. Posiada wszystkie funkcje/metody które powinna posiadać, co prawda nie każda zaimplementowana zgodnie z poleceniem. Niektóre z nich wygodniej było zaimplementować w klasie jako operatory, co z pewnością przekłada się na łatwość użytkowania. Wszystko co tylko się chce można kopiować, chociaż bardzo chętnie przyjąłbym followa na GitHubie w zamian. Miłego dnia! 
