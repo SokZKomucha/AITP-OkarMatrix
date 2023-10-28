@@ -1,7 +1,4 @@
 ﻿
-using System.Data;
-using System.Runtime.CompilerServices;
-
 namespace OkarMatrix
 {
     internal class OkarMatrix
