@@ -15,7 +15,7 @@ Do wykorzystania w kodzie dostępne są metody:
 - `public void FillRandom(int min, int max)` - wypełnia całą macierz losowymi liczbami w zakresie `min` - `max`
 - `public OkarMatrix Transpose()` - transponuje obecną macierz i zwraca transponowaną macierz
 - `public OkarMatrix Minor(int row, int col)`
-- `public static double Determinant(OkarMatrix m)` - liczy wyznacznik z macierzy `m`
+- `public static double Determinant(OkarMatrix m)` - liczy wyznacznik z macierzy `m`, wielkości `MxM`
 - `public void Display()` - wyświetla obecną macierz w konsoli
 - `public void DisplayInformation()` - wyświetla podstawowe dane dotyczące obecnej macierzy
 - `public int GetX()` - zwraca szerokość `x` macierzy
