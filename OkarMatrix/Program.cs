@@ -8,6 +8,8 @@ namespace OkarMatrix
         static void Main(string[] args)
         {
 
+            // Przykładowy program mnożący dwie macierze
+            
             OkarMatrix m1 = new OkarMatrix(3, 2, "Matrix1");
             OkarMatrix m2 = new OkarMatrix(2, 3, "Matrix2");
             m1.FillRandom(1, 10);
