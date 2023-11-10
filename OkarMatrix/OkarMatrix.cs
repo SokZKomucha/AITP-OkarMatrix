@@ -159,7 +159,20 @@ namespace OkarMatrix
         {
             Console.WriteLine($"\nMatrix \"{this.name}\" ({this.x}x{this.y})");
         }
-        
+
+        /// <summary>
+        /// Wyświetla informacje o macierzy + samą macierz
+        /// Przyjmuje opcjonalny parametr. Po jego użyciu,
+        /// wyświetla dany tekst przed informacjami.
+        /// </summary>
+        /// <param name="prepend"> Tekst wyświetlany przed macierzą </param>
+        public void DisplayAll(string prepend = "")
+        {
+            if (prepend != "") Console.Write(prepend);
+            this.DisplayInformation();
+            this.Display();
+        }
+
         /// <summary>
         /// Zwraca szerokość X macierzy.
         /// </summary>
