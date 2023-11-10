@@ -18,6 +18,7 @@ Do wykorzystania w kodzie dostępne są metody:
 - `public static double Determinant(OkarMatrix m)` - liczy wyznacznik z macierzy `m`, wielkości `MxM`
 - `public void Display()` - wyświetla obecną macierz w konsoli
 - `public void DisplayInformation()` - wyświetla podstawowe dane dotyczące obecnej macierzy
+- `public void DisplayAll(string prepend = "")` - wyświetla informacje dot. macierzy oraz samą macierz. Opcjonalny parametr `prepend`, wyświetlany przed danymi oraz macierzą.
 - `public int GetX()` - zwraca szerokość `x` macierzy
 - `public int GetY()` - zwraca wysokość `y` macierzy
 - `public string GetName()` - zwraca nazwę macierzy
